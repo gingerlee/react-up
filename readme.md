@@ -1,1 +1,3 @@
-# React For Beginners — [ReactForBeginners.com](https://ReactForBeginners.com)
+# React Tutorial
+
+React tutorial by Wes Bos. Giddy up! 🌈✨🐎
