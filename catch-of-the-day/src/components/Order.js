@@ -30,7 +30,7 @@ export default class Order extends React.Component {
       }
       return prevTotal
     }, 0)
-    return <div className="order-wrapper">
+    return <div className="order-wrap">
     <h2>
       Order
     </h2>
